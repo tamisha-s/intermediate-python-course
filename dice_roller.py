@@ -9,6 +9,7 @@ def main():
         "Thank you for coming to this game! This is just a simple dice roller game that compares your roll sum to other roll sums.\n"
         "The winner is determined by the team that has the highest roll. There can be multiple winners.\n"
         "Whatever the case, we hope you have an amazing time!\n")
+    
     number_of_teams = int(input('How many teams or people are there? '))
 
     player_scores = []
